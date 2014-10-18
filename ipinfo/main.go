@@ -8,7 +8,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/ochapman/taobao/ipinfo"
+	"github.com/ochapman/ipinfo"
 	"os"
 )
 
